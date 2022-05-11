@@ -6,6 +6,7 @@ Code for [Sparse Distillation: Speeding Up Text Classification by Using Bigger M
 - [Configure Environment](#configure-environment)
 - [Example Code](#example-code)
 - [Download Checkpoints](#download-checkpoints)
+- [Contact Us](#contact-us)
 
 ## Configure Environment
 1. Basic installation
@@ -123,10 +124,10 @@ See `demo/get_feature_based_predictions.py`. This will run inference on a binari
 
 :smiley: Checkpoints will be added.
 
-### Contact Us
-If you find bugs in our code, encounter problems when running the code, or have suggestions for the CrossFit project, please submit an issue, or reach out to Qinyuan (qinyuany@usc.edu).
+## Contact Us
+If you find bugs in our code, encounter problems when running the code, or have suggestions for the project, please submit an issue, or reach out to Qinyuan (qinyuany@usc.edu).
 
-If you used our code in your study, or find our paper useful, please cite us with the following BibTeX:
+If you think our work is useful, please cite us with the following BibTeX:
 
 <details>
 <summary>BibTeX</summary>
