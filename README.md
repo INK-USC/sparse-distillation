@@ -122,7 +122,8 @@ See `demo/get_feature_based_predictions.py`. This will run inference on a binari
 
 ## Download Checkpoints
 
-:smiley: Checkpoints will be added.
+Checkpoints and n-gram dictionary for IMDB can be downloaded [here](https://drive.google.com/drive/folders/1vVjDrBBQvmJMAb-Y5sG8Vtpl9gVjg8wn?usp=sharing).  
+:smiley: Other checkpoints will be added soon.
 
 ## Contact Us
 If you find bugs in our code, encounter problems when running the code, or have suggestions for the project, please submit an issue, or reach out to Qinyuan (qinyuany@usc.edu).
